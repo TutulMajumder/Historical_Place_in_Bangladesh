@@ -53,8 +53,9 @@ This project is a graphical representation of a historical place in Bangladesh, 
 ## Animation
 The application features animations for clouds, birds, and the sun/moon. The animations are controlled by timers and can be toggled on and off using the specified keys.
 
-## Contributing
-Contributors are- Arnob Aich Anurag,Tutul Majumder,Anay Sarker,M.A Salehin,Nowrin Binte Rashid Rio
+## Contribution
+Contributors are- Arnob Aich Anurag,Tutul Majumder,Anay Sarker,M.A Salehin,Nowrin Binte Rashid Rio.
+
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
 
